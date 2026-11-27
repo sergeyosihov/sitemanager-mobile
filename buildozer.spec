@@ -6,7 +6,7 @@ package.icon_filename = icon.png
 source.dir = .
 source.include_exts = py
 version = 1.0
-requirements = python3,kivy==2.3.0,sqlite3,libffi,openssl
+requirements = python3,kivy,sqlite3,libffi,openssl
 orientation = landscape
 fullscreen = 0
 android.api = 34
